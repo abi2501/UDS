@@ -1,0 +1,44 @@
+QToolButton, QPushButton{
+    border:1px solid #d3d3d3;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+}
+
+QToolButton{
+    font-weight:Bold;
+}
+QToolButton:hover
+{
+    background-color: #F0F8FF;
+    border-style: outset;
+    border: 1px solid #d3d3d3;
+}
+QToolButton:checked
+{
+    background-color: #AFDBF5;
+    border-style: outset;
+    border: 1px solid #c0c0c0;
+}
+
+QProgressBar {
+    border: 1px solid rgba(33, 37, 43, 180);
+    border-radius: 5px;
+    text-align: center;
+    background-color: #F5f5f5;
+    color: #215968;
+    font-weight:bold;
+}
+
+QProgressBar::chunk {
+    background-color: #AFDBF5;
+}
+
+#isg_lbl_txt
+{
+    font-weight:bold;
+    color:#215968;
+}
+
+#flash_lbl, #did_title_lbl, #flash_lbl{
+    font-weight:bold;
+}

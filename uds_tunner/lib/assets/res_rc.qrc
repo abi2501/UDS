@@ -1,0 +1,29 @@
+<RCC>
+  <qresource>
+    <file>images/reporting.png</file>
+    <file>images/inel_logo.png</file>
+    <file>images/inel_logo_1.png</file>
+    <file>images/logo.png</file>
+    <file>images/discon.png</file>
+    <file>images/clear.png</file>
+    <file>images/data.png</file>
+    <file>images/write.png</file>
+    <file>images/cloud.png</file>
+    <file>images/odata.png</file>
+    <file>images/flash.png</file>
+    <file>images/upload.png</file>
+    <file>images/boot_grey.png</file>
+    <file>images/read_data.png</file>
+    <file>images/isg_img.png</file>
+    <file>images/connect.png</file>
+    <file>images/disconnect.png</file>
+    <file>images/power-switch.png</file>
+    <file>images/did_write.png</file>
+    <file>images/did_write_1.png</file>
+    <file>images/power-switch.png</file>
+    <file>images/dtc_blue.png</file>
+    <file>images/connect_white.png</file>
+    <file>images/disconnect_white.png</file>
+    <file>images/dtc_blue.png</file>
+  </qresource>
+</RCC>
